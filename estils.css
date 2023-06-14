@@ -1,0 +1,29 @@
+div.piso{
+	position: relative;
+	margin: auto;
+	background: lightgreen;
+	width: 1000px;
+	height: 200px;
+}
+div.lol{
+	height: 300px;
+	width: 300px;
+	background-image: url(https://foto.askix.com/upload/4/f8/4f811eb5c17e3b9a14faeb65f2d2b905.jpg);
+	position: absolute;
+	margin: 200px;
+}
+div.tronco{
+	height: 400px;
+	width: 50px;
+	background-image: url(https://lh3.googleusercontent.com/Ei6ttvVbuP26p1ntnnfaQs52Qca_pu6g-ZXs2kvjy4r-8iBCfiAtYeo-wiqQO9D6QVvI3lOwt4OSAmIkytEDXgwndtr1z7z2SOo=s400);
+	margin: auto;
+	margin-top: 200px;
+}
+#arbol{
+	text-align: center;
+	background: lightblue;
+	height: 700px;
+	width: 1000px;
+	margin-left: 200px;
+}
+
